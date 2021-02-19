@@ -1,0 +1,9 @@
+venv*
+csv
+credentials.json
+predmeti.json
+token.*
+maillist_apis.txt
+output*
+*pyc
+.idea
