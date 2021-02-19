@@ -2,10 +2,14 @@ import requests
 from databaseconfig import *
 import json
 from insert_queries import INSERTS
+import sys
+
+
 
 if __name__ == "__main__":
+    maillist_api_prijavljeni_predmet = sys.argv[1]
     dodatih_studenata = 0
-    response = requests.get('https://maillist.raf.edu.rs/api.php?func=studenti-za-predmet&predmet=08-0007a')
+    response = requests.get(maillist_api_prijavljeni_predmet+'08-0007a')
     content = response.content.split("><br />")
     st_data = content[len(content) - 1]
     studenti_data = json.loads(st_data)
