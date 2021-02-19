@@ -1,5 +1,5 @@
 
-# Softver za pripremu podataka za anketiranje studenata o predmetima i nastavnicima, obradu podataka i genersianje raznih vrsta izveštaja
+## Softver za pripremu podataka za anketiranje studenata o predmetima i nastavnicima, obradu podataka i genersianje raznih vrsta izveštaja
 
 
 
