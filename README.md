@@ -1,7 +1,7 @@
 
 ### Softver za pripremu podataka za anketiranje studenata o predmetima i nastavnicima, obradu podataka i generisanje raznih vrsta izveštaja
 
-Projekat sadrži skripte za pripremu podataka za anketrianje za veb aplikacija dostupnu na: https://github.com/RAFSoftLab/studentske-ankete-webapp
+Projekat sadrži skripte za pripremu podataka za anketrianje za veb aplikaciju dostupnu na: https://github.com/RAFSoftLab/studentske-ankete-webapp
 
 
 #### Priprema baze za anketiranje
