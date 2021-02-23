@@ -5,7 +5,7 @@ Projekat sadrži skripte za pripremu podataka za anketrianje za veb aplikaciju d
 
 #### Okruženje
 
-- Python 3.7
+- Python 3.7.3
 - Testirano na OS Ubuntu 18.04.3 LTS, baza 10.3.15-MariaDB
 
 
