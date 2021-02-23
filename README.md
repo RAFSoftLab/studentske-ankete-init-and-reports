@@ -3,6 +3,11 @@
 
 Projekat sadrži skripte za pripremu podataka za anketrianje za veb aplikaciju dostupnu na: https://github.com/RAFSoftLab/studentske-ankete-webapp
 
+#### Okruženje
+
+- Python 3.7
+- Testirano na OS Ubuntu 18.04.3 LTS, baza 10.3.15-MariaDB
+
 
 #### Priprema baze za anketiranje
 
